@@ -1,4 +1,3 @@
-
 function love.load()
 love.graphics.set3D(false)
 why = love.graphics.newImage('why.png')
